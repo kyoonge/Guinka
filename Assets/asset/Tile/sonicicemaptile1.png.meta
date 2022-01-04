@@ -1,0 +1,7596 @@
+fileFormatVersion: 2
+guid: 778d5ee5370025648b714299c596b0e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8778358018738859126
+    second: sonicicemaptile1_0
+  - first:
+      213: -8381641146267299716
+    second: sonicicemaptile1_1
+  - first:
+      213: 5333776219671143220
+    second: sonicicemaptile1_2
+  - first:
+      213: 6166532339044163517
+    second: sonicicemaptile1_3
+  - first:
+      213: 5641946860506289768
+    second: sonicicemaptile1_4
+  - first:
+      213: -8427813965961195478
+    second: sonicicemaptile1_5
+  - first:
+      213: -2487282149956568385
+    second: sonicicemaptile1_6
+  - first:
+      213: 5368510303819624759
+    second: sonicicemaptile1_7
+  - first:
+      213: -6833077090026603831
+    second: sonicicemaptile1_8
+  - first:
+      213: 7439733243244293907
+    second: sonicicemaptile1_9
+  - first:
+      213: -507796121301655201
+    second: sonicicemaptile1_10
+  - first:
+      213: -1468736198512203815
+    second: sonicicemaptile1_11
+  - first:
+      213: -625745795400930819
+    second: sonicicemaptile1_12
+  - first:
+      213: 1660202738255053015
+    second: sonicicemaptile1_13
+  - first:
+      213: -967246112465456759
+    second: sonicicemaptile1_14
+  - first:
+      213: 1227666441070116722
+    second: sonicicemaptile1_15
+  - first:
+      213: 6939604327275105807
+    second: sonicicemaptile1_16
+  - first:
+      213: -9075822287531935834
+    second: sonicicemaptile1_17
+  - first:
+      213: 4352115327711185647
+    second: sonicicemaptile1_18
+  - first:
+      213: 5229985410819681459
+    second: sonicicemaptile1_19
+  - first:
+      213: 917857897721957287
+    second: sonicicemaptile1_20
+  - first:
+      213: -2520234382368712634
+    second: sonicicemaptile1_21
+  - first:
+      213: 396739210125973800
+    second: sonicicemaptile1_22
+  - first:
+      213: -2957121167435310663
+    second: sonicicemaptile1_23
+  - first:
+      213: 6603455914280575304
+    second: sonicicemaptile1_24
+  - first:
+      213: 1181239480438110373
+    second: sonicicemaptile1_25
+  - first:
+      213: 6819471537874041009
+    second: sonicicemaptile1_26
+  - first:
+      213: -2795820184231698594
+    second: sonicicemaptile1_27
+  - first:
+      213: 4749534397319928458
+    second: sonicicemaptile1_28
+  - first:
+      213: 2524641257555304004
+    second: sonicicemaptile1_29
+  - first:
+      213: -4753547007112581516
+    second: sonicicemaptile1_30
+  - first:
+      213: -3982679493139794626
+    second: sonicicemaptile1_31
+  - first:
+      213: -6856447562640288557
+    second: sonicicemaptile1_32
+  - first:
+      213: 1579532181183881811
+    second: sonicicemaptile1_33
+  - first:
+      213: 1143207261710003703
+    second: sonicicemaptile1_34
+  - first:
+      213: 2849699152285984503
+    second: sonicicemaptile1_35
+  - first:
+      213: 4664496310078170659
+    second: sonicicemaptile1_36
+  - first:
+      213: 8749436786970401621
+    second: sonicicemaptile1_37
+  - first:
+      213: 6230270635272940469
+    second: sonicicemaptile1_38
+  - first:
+      213: 7898639061525576469
+    second: sonicicemaptile1_39
+  - first:
+      213: 8031347404546402025
+    second: sonicicemaptile1_40
+  - first:
+      213: -2526430984833829606
+    second: sonicicemaptile1_41
+  - first:
+      213: -6926128433352592273
+    second: sonicicemaptile1_42
+  - first:
+      213: 258451978472708937
+    second: sonicicemaptile1_43
+  - first:
+      213: 638406013228910993
+    second: sonicicemaptile1_44
+  - first:
+      213: -6324147258213845219
+    second: sonicicemaptile1_45
+  - first:
+      213: -8005944991237488483
+    second: sonicicemaptile1_46
+  - first:
+      213: 8427514444037891257
+    second: sonicicemaptile1_47
+  - first:
+      213: -1570122130720111949
+    second: sonicicemaptile1_48
+  - first:
+      213: 4125180944935664226
+    second: sonicicemaptile1_49
+  - first:
+      213: 6501232300756671521
+    second: sonicicemaptile1_50
+  - first:
+      213: 2254155183436278160
+    second: sonicicemaptile1_51
+  - first:
+      213: -5860251242353186215
+    second: sonicicemaptile1_52
+  - first:
+      213: 7353606853918874211
+    second: sonicicemaptile1_53
+  - first:
+      213: 4759644266952332724
+    second: sonicicemaptile1_54
+  - first:
+      213: -4378831688597296305
+    second: sonicicemaptile1_55
+  - first:
+      213: 8491625548806090620
+    second: sonicicemaptile1_56
+  - first:
+      213: -8917561257978069427
+    second: sonicicemaptile1_57
+  - first:
+      213: -2743528550663742814
+    second: sonicicemaptile1_58
+  - first:
+      213: -7641142181847228685
+    second: sonicicemaptile1_59
+  - first:
+      213: 8596801717966445856
+    second: sonicicemaptile1_60
+  - first:
+      213: -3275377953596515077
+    second: sonicicemaptile1_61
+  - first:
+      213: -9205655552005197384
+    second: sonicicemaptile1_62
+  - first:
+      213: -784185847980954882
+    second: sonicicemaptile1_63
+  - first:
+      213: -2950023523362639958
+    second: sonicicemaptile1_64
+  - first:
+      213: 8163832348809063585
+    second: sonicicemaptile1_65
+  - first:
+      213: -7144623718434811439
+    second: sonicicemaptile1_66
+  - first:
+      213: -1565432922566916011
+    second: sonicicemaptile1_67
+  - first:
+      213: -8289555106993404708
+    second: sonicicemaptile1_68
+  - first:
+      213: -6320531787439128564
+    second: sonicicemaptile1_69
+  - first:
+      213: -3665835861041642285
+    second: sonicicemaptile1_70
+  - first:
+      213: 8024991535185217989
+    second: sonicicemaptile1_71
+  - first:
+      213: -4796898736709767848
+    second: sonicicemaptile1_72
+  - first:
+      213: -4614777960086307692
+    second: sonicicemaptile1_73
+  - first:
+      213: -3894079941905017671
+    second: sonicicemaptile1_74
+  - first:
+      213: -107467373315127852
+    second: sonicicemaptile1_75
+  - first:
+      213: -5340474642107428353
+    second: sonicicemaptile1_76
+  - first:
+      213: 8533657758765887281
+    second: sonicicemaptile1_77
+  - first:
+      213: -8003679680589626321
+    second: sonicicemaptile1_78
+  - first:
+      213: -2650421983977070428
+    second: sonicicemaptile1_79
+  - first:
+      213: 2302126146986012523
+    second: sonicicemaptile1_80
+  - first:
+      213: 7715851308484671300
+    second: sonicicemaptile1_81
+  - first:
+      213: -5834959534867202177
+    second: sonicicemaptile1_82
+  - first:
+      213: 1070731396696205318
+    second: sonicicemaptile1_83
+  - first:
+      213: -4114369663363394212
+    second: sonicicemaptile1_84
+  - first:
+      213: 1359646541831182497
+    second: sonicicemaptile1_85
+  - first:
+      213: 687943980889098290
+    second: sonicicemaptile1_86
+  - first:
+      213: 1938987327820647575
+    second: sonicicemaptile1_87
+  - first:
+      213: 7169054387360794814
+    second: sonicicemaptile1_88
+  - first:
+      213: -8082827327217356257
+    second: sonicicemaptile1_89
+  - first:
+      213: -803321238633444556
+    second: sonicicemaptile1_90
+  - first:
+      213: -1912353809353856537
+    second: sonicicemaptile1_91
+  - first:
+      213: -4058765348323935652
+    second: sonicicemaptile1_92
+  - first:
+      213: -4166007585984381635
+    second: sonicicemaptile1_93
+  - first:
+      213: 7021524229225029730
+    second: sonicicemaptile1_94
+  - first:
+      213: -1270995348325081212
+    second: sonicicemaptile1_95
+  - first:
+      213: 7316860054243464089
+    second: sonicicemaptile1_96
+  - first:
+      213: 1835196685072324140
+    second: sonicicemaptile1_97
+  - first:
+      213: -3666680797888561328
+    second: sonicicemaptile1_98
+  - first:
+      213: -9084759527624655500
+    second: sonicicemaptile1_99
+  - first:
+      213: -6554781221715253531
+    second: sonicicemaptile1_100
+  - first:
+      213: 7030833590999135089
+    second: sonicicemaptile1_101
+  - first:
+      213: 7610277537448941215
+    second: sonicicemaptile1_102
+  - first:
+      213: -1853313006035174761
+    second: sonicicemaptile1_103
+  - first:
+      213: 8890323124516499036
+    second: sonicicemaptile1_104
+  - first:
+      213: 3638970789434523564
+    second: sonicicemaptile1_105
+  - first:
+      213: -6971898773195066216
+    second: sonicicemaptile1_106
+  - first:
+      213: 3838934774140750196
+    second: sonicicemaptile1_107
+  - first:
+      213: -711179059828876185
+    second: sonicicemaptile1_108
+  - first:
+      213: 4003697200022018773
+    second: sonicicemaptile1_109
+  - first:
+      213: -7243060721387895426
+    second: sonicicemaptile1_110
+  - first:
+      213: 1320518983982724312
+    second: sonicicemaptile1_111
+  - first:
+      213: 7121064629023939739
+    second: sonicicemaptile1_112
+  - first:
+      213: -2183854160332285124
+    second: sonicicemaptile1_113
+  - first:
+      213: -7432623699892645134
+    second: sonicicemaptile1_114
+  - first:
+      213: -9211181940079584696
+    second: sonicicemaptile1_115
+  - first:
+      213: 2355113049905332831
+    second: sonicicemaptile1_116
+  - first:
+      213: -483934222592664405
+    second: sonicicemaptile1_117
+  - first:
+      213: 1518581553888110783
+    second: sonicicemaptile1_118
+  - first:
+      213: -421439922560605288
+    second: sonicicemaptile1_119
+  - first:
+      213: -6977717855667156342
+    second: sonicicemaptile1_120
+  - first:
+      213: -9050920588661920498
+    second: sonicicemaptile1_121
+  - first:
+      213: -8705776185229509588
+    second: sonicicemaptile1_122
+  - first:
+      213: -432512788958385892
+    second: sonicicemaptile1_123
+  - first:
+      213: 6314222417506165064
+    second: sonicicemaptile1_124
+  - first:
+      213: 4126865801973829500
+    second: sonicicemaptile1_125
+  - first:
+      213: -528829585217970423
+    second: sonicicemaptile1_126
+  - first:
+      213: -4304855325832698545
+    second: sonicicemaptile1_127
+  - first:
+      213: 5073790872052807693
+    second: sonicicemaptile1_128
+  - first:
+      213: 4594817223140784340
+    second: sonicicemaptile1_129
+  - first:
+      213: -2433715334871871886
+    second: sonicicemaptile1_130
+  - first:
+      213: 6700038662507321707
+    second: sonicicemaptile1_131
+  - first:
+      213: -8764547643598836118
+    second: sonicicemaptile1_132
+  - first:
+      213: -6545285126124259089
+    second: sonicicemaptile1_133
+  - first:
+      213: 6203874175118994650
+    second: sonicicemaptile1_134
+  - first:
+      213: 5432273071591911801
+    second: sonicicemaptile1_135
+  - first:
+      213: 7354008911974577522
+    second: sonicicemaptile1_136
+  - first:
+      213: 6515205451934851370
+    second: sonicicemaptile1_137
+  - first:
+      213: 2336224737340934099
+    second: sonicicemaptile1_138
+  - first:
+      213: 3123773915177698613
+    second: sonicicemaptile1_139
+  - first:
+      213: -1155242412168142991
+    second: sonicicemaptile1_140
+  - first:
+      213: -6421756763759035340
+    second: sonicicemaptile1_141
+  - first:
+      213: -3457356288307768159
+    second: sonicicemaptile1_142
+  - first:
+      213: -8956510222584908620
+    second: sonicicemaptile1_143
+  - first:
+      213: 578736995282195373
+    second: sonicicemaptile1_144
+  - first:
+      213: -3433376021460463079
+    second: sonicicemaptile1_145
+  - first:
+      213: -6090885177376328512
+    second: sonicicemaptile1_146
+  - first:
+      213: -2790303109532590137
+    second: sonicicemaptile1_147
+  - first:
+      213: 8630501547029323171
+    second: sonicicemaptile1_148
+  - first:
+      213: 6796258086922958171
+    second: sonicicemaptile1_149
+  - first:
+      213: -8558068685946218079
+    second: sonicicemaptile1_150
+  - first:
+      213: -3962111417984375854
+    second: sonicicemaptile1_151
+  - first:
+      213: -5559637837144619824
+    second: sonicicemaptile1_152
+  - first:
+      213: 6625331016093874344
+    second: sonicicemaptile1_153
+  - first:
+      213: -335448539447712433
+    second: sonicicemaptile1_154
+  - first:
+      213: 5593601629629826339
+    second: sonicicemaptile1_155
+  - first:
+      213: 5276009613170953160
+    second: sonicicemaptile1_156
+  - first:
+      213: 7595930948276180025
+    second: sonicicemaptile1_157
+  - first:
+      213: -5717262504565916485
+    second: sonicicemaptile1_158
+  - first:
+      213: -5338833484547383529
+    second: sonicicemaptile1_159
+  - first:
+      213: -5743176790851313209
+    second: sonicicemaptile1_160
+  - first:
+      213: 4005008827391262173
+    second: sonicicemaptile1_161
+  - first:
+      213: 4867765757271142138
+    second: sonicicemaptile1_162
+  - first:
+      213: -3705985178801781668
+    second: sonicicemaptile1_163
+  - first:
+      213: 1864244665780790069
+    second: sonicicemaptile1_164
+  - first:
+      213: 8914009009373966535
+    second: sonicicemaptile1_165
+  - first:
+      213: -2309104541574106372
+    second: sonicicemaptile1_166
+  - first:
+      213: -369221425417937344
+    second: sonicicemaptile1_167
+  - first:
+      213: 8298296646779203875
+    second: sonicicemaptile1_168
+  - first:
+      213: 8630374205184368128
+    second: sonicicemaptile1_169
+  - first:
+      213: 5804316030657190321
+    second: sonicicemaptile1_170
+  - first:
+      213: -1153120318641245692
+    second: sonicicemaptile1_171
+  - first:
+      213: 9115599487366348770
+    second: sonicicemaptile1_172
+  - first:
+      213: -6989078010376925226
+    second: sonicicemaptile1_173
+  - first:
+      213: 5954846647192821693
+    second: sonicicemaptile1_174
+  - first:
+      213: 2589063487747732295
+    second: sonicicemaptile1_175
+  - first:
+      213: -3739258334521543682
+    second: sonicicemaptile1_176
+  - first:
+      213: -917057617064899303
+    second: sonicicemaptile1_177
+  - first:
+      213: -500895079897632548
+    second: sonicicemaptile1_178
+  - first:
+      213: -3265405257945039650
+    second: sonicicemaptile1_179
+  - first:
+      213: 4826201171474904660
+    second: sonicicemaptile1_180
+  - first:
+      213: -8257445467841467070
+    second: sonicicemaptile1_181
+  - first:
+      213: -8810624868934486891
+    second: sonicicemaptile1_182
+  - first:
+      213: -7419161551316898327
+    second: sonicicemaptile1_183
+  - first:
+      213: -8591732627737485678
+    second: sonicicemaptile1_184
+  - first:
+      213: -1296009313492558207
+    second: sonicicemaptile1_185
+  - first:
+      213: -2374222103455543136
+    second: sonicicemaptile1_186
+  - first:
+      213: -6336113592897630649
+    second: sonicicemaptile1_187
+  - first:
+      213: -4774936547812372340
+    second: sonicicemaptile1_188
+  - first:
+      213: 7845824330993104666
+    second: sonicicemaptile1_189
+  - first:
+      213: -8906386254793080681
+    second: sonicicemaptile1_190
+  - first:
+      213: 5872542998813741336
+    second: sonicicemaptile1_191
+  - first:
+      213: -2791052749368509099
+    second: sonicicemaptile1_192
+  - first:
+      213: 8553067618111168206
+    second: sonicicemaptile1_193
+  - first:
+      213: 1463468793907106170
+    second: sonicicemaptile1_194
+  - first:
+      213: 5423661301361789753
+    second: sonicicemaptile1_195
+  - first:
+      213: -8478472543654820674
+    second: sonicicemaptile1_196
+  - first:
+      213: 6894466023696932634
+    second: sonicicemaptile1_197
+  - first:
+      213: 5405671910461134676
+    second: sonicicemaptile1_198
+  - first:
+      213: -8851870595113585554
+    second: sonicicemaptile1_199
+  - first:
+      213: -9198715984575743170
+    second: sonicicemaptile1_200
+  - first:
+      213: -2532476669816414323
+    second: sonicicemaptile1_201
+  - first:
+      213: -7115238319396034712
+    second: sonicicemaptile1_202
+  - first:
+      213: -4509945126131799954
+    second: sonicicemaptile1_203
+  - first:
+      213: -4628872303021712350
+    second: sonicicemaptile1_204
+  - first:
+      213: -7503720967803263264
+    second: sonicicemaptile1_205
+  - first:
+      213: -6779807011782513528
+    second: sonicicemaptile1_206
+  - first:
+      213: 4279783047780460569
+    second: sonicicemaptile1_207
+  - first:
+      213: 2913206225609579481
+    second: sonicicemaptile1_208
+  - first:
+      213: 7086741932750604402
+    second: sonicicemaptile1_209
+  - first:
+      213: 691190567514073751
+    second: sonicicemaptile1_210
+  - first:
+      213: -2246892192836086994
+    second: sonicicemaptile1_211
+  - first:
+      213: 5380867111349495521
+    second: sonicicemaptile1_212
+  - first:
+      213: -2550836496425247521
+    second: sonicicemaptile1_213
+  - first:
+      213: -7251516569988087249
+    second: sonicicemaptile1_214
+  - first:
+      213: 8341511239244422750
+    second: sonicicemaptile1_215
+  - first:
+      213: -2471098709850989446
+    second: sonicicemaptile1_216
+  - first:
+      213: -1835997336824784259
+    second: sonicicemaptile1_217
+  - first:
+      213: -8592138486750041053
+    second: sonicicemaptile1_218
+  - first:
+      213: -8500781838076744228
+    second: sonicicemaptile1_219
+  - first:
+      213: -4853350907432433431
+    second: sonicicemaptile1_220
+  - first:
+      213: -2465824762329106024
+    second: sonicicemaptile1_221
+  - first:
+      213: 6316509249529240048
+    second: sonicicemaptile1_222
+  - first:
+      213: 1287886327259382823
+    second: sonicicemaptile1_223
+  - first:
+      213: 1398873851319465501
+    second: sonicicemaptile1_224
+  - first:
+      213: 6177611751593345217
+    second: sonicicemaptile1_225
+  - first:
+      213: 3883722745348915874
+    second: sonicicemaptile1_226
+  - first:
+      213: 2871248012237974247
+    second: sonicicemaptile1_227
+  - first:
+      213: -7587082112792240981
+    second: sonicicemaptile1_228
+  - first:
+      213: 4934322580009539537
+    second: sonicicemaptile1_229
+  - first:
+      213: 5121489349561097801
+    second: sonicicemaptile1_230
+  - first:
+      213: 4444977319560269008
+    second: sonicicemaptile1_231
+  - first:
+      213: 6712022407338085897
+    second: sonicicemaptile1_232
+  - first:
+      213: -1118748093502896371
+    second: sonicicemaptile1_233
+  - first:
+      213: 5058583594830770406
+    second: sonicicemaptile1_234
+  - first:
+      213: 1929622289609773040
+    second: sonicicemaptile1_235
+  - first:
+      213: 8225720733932395056
+    second: sonicicemaptile1_236
+  - first:
+      213: 6053845939119866674
+    second: sonicicemaptile1_237
+  - first:
+      213: 7503762235349426161
+    second: sonicicemaptile1_238
+  - first:
+      213: -8271332519746094649
+    second: sonicicemaptile1_239
+  - first:
+      213: -4452808598790961180
+    second: sonicicemaptile1_240
+  - first:
+      213: 5970676545333652739
+    second: sonicicemaptile1_241
+  - first:
+      213: 4518221578819753655
+    second: sonicicemaptile1_242
+  - first:
+      213: 2449267436336779013
+    second: sonicicemaptile1_243
+  - first:
+      213: 3771546030481373058
+    second: sonicicemaptile1_244
+  - first:
+      213: 8071985166450110930
+    second: sonicicemaptile1_245
+  - first:
+      213: 1690954908857302838
+    second: sonicicemaptile1_246
+  - first:
+      213: -1604610714246694340
+    second: sonicicemaptile1_247
+  - first:
+      213: 7634643855544159756
+    second: sonicicemaptile1_248
+  - first:
+      213: -7613909986682251945
+    second: sonicicemaptile1_249
+  - first:
+      213: -5917603276346318267
+    second: sonicicemaptile1_250
+  - first:
+      213: 2568050904395771465
+    second: sonicicemaptile1_251
+  - first:
+      213: 4067545843880318725
+    second: sonicicemaptile1_252
+  - first:
+      213: 669870057709998901
+    second: sonicicemaptile1_253
+  - first:
+      213: 4475330160924470462
+    second: sonicicemaptile1_254
+  - first:
+      213: -5706447137009934149
+    second: sonicicemaptile1_255
+  - first:
+      213: 3093253818439386048
+    second: sonicicemaptile1_256
+  - first:
+      213: 4503117010694846704
+    second: sonicicemaptile1_257
+  - first:
+      213: -4765650084066143664
+    second: sonicicemaptile1_258
+  - first:
+      213: 7447766683910638009
+    second: sonicicemaptile1_259
+  - first:
+      213: 1331881514567234402
+    second: sonicicemaptile1_260
+  - first:
+      213: -3315485157648003007
+    second: sonicicemaptile1_261
+  - first:
+      213: -7757505328234150027
+    second: sonicicemaptile1_262
+  - first:
+      213: -5909617824043537984
+    second: sonicicemaptile1_263
+  - first:
+      213: 7966297464006306796
+    second: sonicicemaptile1_264
+  - first:
+      213: 5960892581011115570
+    second: sonicicemaptile1_265
+  - first:
+      213: -4457343248930605650
+    second: sonicicemaptile1_266
+  - first:
+      213: -2625757396121962458
+    second: sonicicemaptile1_267
+  - first:
+      213: 2089987493640978783
+    second: sonicicemaptile1_268
+  - first:
+      213: -183189251433531691
+    second: sonicicemaptile1_269
+  - first:
+      213: -8096588012901747103
+    second: sonicicemaptile1_270
+  - first:
+      213: 1185469068822374165
+    second: sonicicemaptile1_271
+  - first:
+      213: -583906975032861011
+    second: sonicicemaptile1_272
+  - first:
+      213: -7465426879134627713
+    second: sonicicemaptile1_273
+  - first:
+      213: 1969299055581513120
+    second: sonicicemaptile1_274
+  - first:
+      213: 9144800493843311789
+    second: sonicicemaptile1_275
+  - first:
+      213: -3098112384168426875
+    second: sonicicemaptile1_276
+  - first:
+      213: -6181255785699436126
+    second: sonicicemaptile1_277
+  - first:
+      213: 4367283918804509815
+    second: sonicicemaptile1_278
+  - first:
+      213: 4333932431459067537
+    second: sonicicemaptile1_279
+  - first:
+      213: 5147539901090488199
+    second: sonicicemaptile1_280
+  - first:
+      213: 5307675790556117127
+    second: sonicicemaptile1_281
+  - first:
+      213: 4361933186419443894
+    second: sonicicemaptile1_282
+  - first:
+      213: -2094517467373546596
+    second: sonicicemaptile1_283
+  - first:
+      213: -6550001754753420418
+    second: sonicicemaptile1_284
+  - first:
+      213: -6111421861875440452
+    second: sonicicemaptile1_285
+  - first:
+      213: 3413706562743891681
+    second: sonicicemaptile1_286
+  - first:
+      213: 7076462543409502927
+    second: sonicicemaptile1_287
+  - first:
+      213: 146702485778013497
+    second: sonicicemaptile1_288
+  - first:
+      213: 58176307921410076
+    second: sonicicemaptile1_289
+  - first:
+      213: 3468125153845069358
+    second: sonicicemaptile1_290
+  - first:
+      213: -4248088770046404152
+    second: sonicicemaptile1_291
+  - first:
+      213: -5039780706590875778
+    second: sonicicemaptile1_292
+  - first:
+      213: -443616809414539425
+    second: sonicicemaptile1_293
+  - first:
+      213: 2980490442855537445
+    second: sonicicemaptile1_294
+  - first:
+      213: 7162623991813763248
+    second: sonicicemaptile1_295
+  - first:
+      213: -340711372482957677
+    second: sonicicemaptile1_296
+  - first:
+      213: -6582368676469370131
+    second: sonicicemaptile1_297
+  - first:
+      213: -5488302024620914487
+    second: sonicicemaptile1_298
+  - first:
+      213: -8494731081893410556
+    second: sonicicemaptile1_299
+  - first:
+      213: -6583820389683347494
+    second: sonicicemaptile1_300
+  - first:
+      213: 6172399878833418385
+    second: sonicicemaptile1_301
+  - first:
+      213: 1784936652563648696
+    second: sonicicemaptile1_302
+  - first:
+      213: -6970696962978169926
+    second: sonicicemaptile1_303
+  - first:
+      213: -1816230018805078100
+    second: sonicicemaptile1_304
+  - first:
+      213: -1027706456307981595
+    second: sonicicemaptile1_305
+  - first:
+      213: 3646536435388980036
+    second: sonicicemaptile1_306
+  - first:
+      213: -4877606040656057996
+    second: sonicicemaptile1_307
+  - first:
+      213: 956036627080756654
+    second: sonicicemaptile1_308
+  - first:
+      213: -6963976184743504159
+    second: sonicicemaptile1_309
+  - first:
+      213: -573474422645796767
+    second: sonicicemaptile1_310
+  - first:
+      213: 8737769485611868466
+    second: sonicicemaptile1_311
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonicicemaptile1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ca12abb1ef2d970800000000000000
+      internalID: 8778358018738859126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7090f909cd6eab80800000000000000
+      internalID: -8381641146267299716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ace45631650a40800000000000000
+      internalID: 5333776219671143220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9fac9d7ce39550800000000000000
+      internalID: 6166532339044163517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8669b1ef6c83c4e40800000000000000
+      internalID: 5641946860506289768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a209ec5b9d36a0b80800000000000000
+      internalID: -8427813965961195478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3ba310166b7dd0800000000000000
+      internalID: -2487282149956568385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_7
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73171308da7c08a40800000000000000
+      internalID: 5368510303819624759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_8
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caba1ef6980c21a0800000000000000
+      internalID: -6833077090026603831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_9
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fad33a7fd3f3760800000000000000
+      internalID: 7439733243244293907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_10
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f516e7b3e12f3f8f0800000000000000
+      internalID: -507796121301655201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_11
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 3228
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d72cea85300e9be0800000000000000
+      internalID: -1468736198512203815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ee61b387e057f0800000000000000
+      internalID: -625745795400930819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0c2d428993a0710800000000000000
+      internalID: 1660202738255053015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9817e1019c6a392f0800000000000000
+      internalID: -967246112465456759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ff6aaaf1c890110800000000000000
+      internalID: 1227666441070116722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0ff83e5d6e4060800000000000000
+      internalID: 6939604327275105807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_17
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7f51b17b33c0280800000000000000
+      internalID: -9075822287531935834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_18
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea02c105d1d56c30800000000000000
+      internalID: 4352115327711185647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_19
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce1608504a49840800000000000000
+      internalID: 5229985410819681459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_20
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab010c15e2ecbc00800000000000000
+      internalID: 917857897721957287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648df289e24560dd0800000000000000
+      internalID: -2520234382368712634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_22
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291708a530818500800000000000000
+      internalID: 396739210125973800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_23
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 3099
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9da3937f136f6d0800000000000000
+      internalID: -2957121167435310663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84165acda2034ab50800000000000000
+      internalID: 6603455914280575304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a83e2a8c0b946010800000000000000
+      internalID: 1181239480438110373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87eda8b31a3ae50800000000000000
+      internalID: 6819471537874041009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f9007fa504339d0800000000000000
+      internalID: -2795820184231698594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_28
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ad0c8ce5cb9e140800000000000000
+      internalID: 4749534397319928458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_29
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e11edf8d3590320800000000000000
+      internalID: 2524641257555304004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_30
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eeee1be22080eb0800000000000000
+      internalID: -4753547007112581516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_31
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357b252a1eaab8c0800000000000000
+      internalID: -3982679493139794626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_32
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d49bbfc44109d0a0800000000000000
+      internalID: -6856447562640288557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_33
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35263ca6620abe510800000000000000
+      internalID: 1579532181183881811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_34
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd2fd292fc7ddf00800000000000000
+      internalID: 1143207261710003703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_35
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2970
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ecb8d74a2c8720800000000000000
+      internalID: 2849699152285984503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32664523eae9bb040800000000000000
+      internalID: 4664496310078170659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b1b18b66e3c6970800000000000000
+      internalID: 8749436786970401621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbadf5222e567650800000000000000
+      internalID: 6230270635272940469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_39
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bb14fa06a9d9d60800000000000000
+      internalID: 7898639061525576469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e66ebb99e3157f60800000000000000
+      internalID: 8031347404546402025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a157077a76050fcd0800000000000000
+      internalID: -2526430984833829606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_42
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643945d2e271ef90800000000000000
+      internalID: -6926128433352592273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_43
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bdc5084b4369300800000000000000
+      internalID: 258451978472708937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_44
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998bf8f2e21cd800800000000000000
+      internalID: 638406013228910993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_45
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1737ee439d1c38a0800000000000000
+      internalID: -6324147258213845219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_46
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c8f1a27b25e090800000000000000
+      internalID: -8005944991237488483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_47
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2841
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b42a586cbb84f470800000000000000
+      internalID: 8427514444037891257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c270bd3ec53ae0800000000000000
+      internalID: -1570122130720111949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ab91996369f3930800000000000000
+      internalID: 4125180944935664226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_50
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c95e02554093a50800000000000000
+      internalID: 6501232300756671521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0992351423e584f10800000000000000
+      internalID: 2254155183436278160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_52
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2ff44b843caea0800000000000000
+      internalID: -5860251242353186215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_53
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a56b9f8724d0660800000000000000
+      internalID: 7353606853918874211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_54
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b51bec3e37ad0240800000000000000
+      internalID: 4759644266952332724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_55
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2fed77c34b33c0800000000000000
+      internalID: -4378831688597296305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_56
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fe732327058d570800000000000000
+      internalID: 8491625548806090620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_57
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e7e6b78457e3480800000000000000
+      internalID: -8917561257978069427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_58
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa9b8aa1570de9d0800000000000000
+      internalID: -2743528550663742814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_59
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2712
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1ebc8ba535f590800000000000000
+      internalID: -7641142181847228685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d9bdb5d99fd4770800000000000000
+      internalID: 8596801717966445856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_61
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcdbbada158b82d0800000000000000
+      internalID: -3275377953596515077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b0229c01fe3080800000000000000
+      internalID: -9205655552005197384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_63
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae43540230e15f0800000000000000
+      internalID: -784185847980954882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_64
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf6ce24c396f07d0800000000000000
+      internalID: -2950023523362639958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_65
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac6b947442cb4170800000000000000
+      internalID: 8163832348809063585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_66
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1dcd8f49239dc90800000000000000
+      internalID: -7144623718434811439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_67
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55882ba0d07764ae0800000000000000
+      internalID: -1565432922566916011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_68
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd402a5dc8595fc80800000000000000
+      internalID: -8289555106993404708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_69
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c004022b3d5f848a0800000000000000
+      internalID: -6320531787439128564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_70
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d489b1f4b5502dc0800000000000000
+      internalID: -3665835861041642285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_71
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2583
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94b34784f7e5f60800000000000000
+      internalID: 8024991535185217989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85de4e6930efd6db0800000000000000
+      internalID: -4796898736709767848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_73
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf0cb35e305ffb0800000000000000
+      internalID: -4614777960086307692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b417cface275f9c0800000000000000
+      internalID: -3894079941905017671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_75
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d58b9c4ef2328ef0800000000000000
+      internalID: -107467373315127852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_76
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff19439ab92d2e5b0800000000000000
+      internalID: -5340474642107428353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_77
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f2ff1b484ad6670800000000000000
+      internalID: 8533657758765887281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_78
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24817e5cb73de090800000000000000
+      internalID: -8003679680589626321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_79
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a029248f3fc73bd0800000000000000
+      internalID: -2650421983977070428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_80
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6d33988bc2ff10800000000000000
+      internalID: 2302126146986012523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_81
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44736fd72e5341b60800000000000000
+      internalID: 7715851308484671300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_82
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f367dc73f060fa0800000000000000
+      internalID: -5834959534867202177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_83
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2454
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086fe548800cde00800000000000000
+      internalID: 1070731396696205318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55d49c0792d6e6c0800000000000000
+      internalID: -4114369663363394212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_85
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a89fe9735f6ed210800000000000000
+      internalID: 1359646541831182497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_86
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238434ed7611c8900800000000000000
+      internalID: 687943980889098290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_87
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccbb293baa8ea10800000000000000
+      internalID: 1938987327820647575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_88
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb888166bf89d7360800000000000000
+      internalID: 7169054387360794814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_89
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b36cde5704df80800000000000000
+      internalID: -8082827327217356257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_90
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b0ab2f6970ad4f0800000000000000
+      internalID: -803321238633444556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_91
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9299ca754f575e0800000000000000
+      internalID: -1912353809353856537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_92
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5abc728b6e5ca7c0800000000000000
+      internalID: -4058765348323935652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_93
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d71d94c2e5f26c0800000000000000
+      internalID: -4166007585984381635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_94
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260a1c8b517717160800000000000000
+      internalID: 7021524229225029730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_95
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2325
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fd8e7f6748c5ee0800000000000000
+      internalID: -1270995348325081212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9935d64f375ba8560800000000000000
+      internalID: 7316860054243464089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_97
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26d5ba69ade77910800000000000000
+      internalID: 1835196685072324140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_98
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f3b11cd355d1dc0800000000000000
+      internalID: -3666680797888561328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_99
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d361eb7537ce180800000000000000
+      internalID: -9084759527624655500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_100
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6e243253db805a0800000000000000
+      internalID: -6554781221715253531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_101
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173336a66e9829160800000000000000
+      internalID: 7030833590999135089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_102
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9657cd69132d9960800000000000000
+      internalID: 7610277537448941215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_103
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a79a9e3a5b746e0800000000000000
+      internalID: -1853313006035174761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_104
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2f3f57c5c06b70800000000000000
+      internalID: 8890323124516499036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_105
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf744427a8308230800000000000000
+      internalID: 3638970789434523564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_106
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894f9b52107de3f90800000000000000
+      internalID: -6971898773195066216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_107
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479cd8866d2a64530800000000000000
+      internalID: 3838934774140750196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c143fb9626126f0800000000000000
+      internalID: -711179059828876185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_109
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad983146dff8730800000000000000
+      internalID: 4003697200022018773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_110
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75071736aa7b7b90800000000000000
+      internalID: -7243060721387895426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_111
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4337ff40d635210800000000000000
+      internalID: 1320518983982724312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_112
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c12931d8a13d260800000000000000
+      internalID: 7121064629023939739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_113
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9224363461b1e0800000000000000
+      internalID: -2183854160332285124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_114
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2dfbaef140ad890800000000000000
+      internalID: -7432623699892645134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_115
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a101414de4b2080800000000000000
+      internalID: -9211181940079584696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_116
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f528e7947da0fa020800000000000000
+      internalID: 2355113049905332831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_117
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac95b77368b849f0800000000000000
+      internalID: -483934222592664405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_118
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb826f1a0e5131510800000000000000
+      internalID: 1518581553888110783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_119
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2067
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936b919f9eb62af0800000000000000
+      internalID: -421439922560605288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a0f0e649a2a2f90800000000000000
+      internalID: -6977717855667156342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_121
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d698eadaba46280800000000000000
+      internalID: -9050920588661920498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_122
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cf6594faede2780800000000000000
+      internalID: -8705776185229509588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_123
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c196255f8e76ff9f0800000000000000
+      internalID: -432512788958385892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_124
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8416344a5df90a750800000000000000
+      internalID: 6314222417506165064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_125
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f8b52f492954930800000000000000
+      internalID: 4126865801973829500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_126
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f9d5a4b4839a8f0800000000000000
+      internalID: -528829585217970423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_127
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f452b46a3e41244c0800000000000000
+      internalID: -4304855325832698545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_128
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08b3518ae9b96640800000000000000
+      internalID: 5073790872052807693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_129
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d837298be114cf30800000000000000
+      internalID: 4594817223140784340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_130
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e8a8c1cc4b93ed0800000000000000
+      internalID: -2433715334871871886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_131
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1938
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69d12c4aa15bfc50800000000000000
+      internalID: 6700038662507321707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eed4eca521e5680800000000000000
+      internalID: -8764547643598836118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_133
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe837bf2bd97a25a0800000000000000
+      internalID: -6545285126124259089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_134
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcef2751b6981650800000000000000
+      internalID: 6203874175118994650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_135
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f723c39f436b40800000000000000
+      internalID: 5432273071591911801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_136
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2753d496420be0660800000000000000
+      internalID: 7354008911974577522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_137
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e349e6d8aa6a50800000000000000
+      internalID: 6515205451934851370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_138
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7cfa05500fb6020800000000000000
+      internalID: 2336224737340934099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_139
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354ccc43dfd95b20800000000000000
+      internalID: 3123773915177698613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_140
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f90499521c7ffe0800000000000000
+      internalID: -1155242412168142991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_141
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c3e2e4f3651e6a0800000000000000
+      internalID: -6421756763759035340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_142
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4d37d06c00500d0800000000000000
+      internalID: -3457356288307768159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_143
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1809
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4fbabf76514b380800000000000000
+      internalID: -8956510222584908620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da31c2e1b36180800800000000000000
+      internalID: 578736995282195373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_145
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912518403b23a50d0800000000000000
+      internalID: -3433376021460463079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_146
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4bacab334d87ba0800000000000000
+      internalID: -6090885177376328512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_147
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf54a40b1ad649d0800000000000000
+      internalID: -2790303109532590137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_148
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad54204e63b5c770800000000000000
+      internalID: 8630501547029323171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_149
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b553be0d8b8215e50800000000000000
+      internalID: 6796258086922958171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_150
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a918ca6fd1ab3980800000000000000
+      internalID: -8558068685946218079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_151
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3a58258a0c309c0800000000000000
+      internalID: -3962111417984375854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_152
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d48c25e7d238d2b0800000000000000
+      internalID: -5559637837144619824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_153
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a837a5e477e1fb50800000000000000
+      internalID: 6625331016093874344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_154
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45abc5a45f385bf0800000000000000
+      internalID: -335448539447712433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_155
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1680
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c125cb0770ad40800000000000000
+      internalID: 5593601629629826339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbc9982ac6283940800000000000000
+      internalID: 5276009613170953160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_157
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d566d3fa2a6960800000000000000
+      internalID: 7595930948276180025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_158
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc30bf1b0438a0b0800000000000000
+      internalID: -5717262504565916485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_159
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f979e6b37a8e5b0800000000000000
+      internalID: -5338833484547383529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_160
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c12a0b23232c40b0800000000000000
+      internalID: -5743176790851313209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_161
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb5fe1f46a49730800000000000000
+      internalID: 4005008827391262173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_162
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee4fb6a27cd8340800000000000000
+      internalID: 4867765757271142138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_163
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5448a27d12b19cc0800000000000000
+      internalID: -3705985178801781668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_164
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533e74675a02fd910800000000000000
+      internalID: 1864244665780790069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_165
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0fd5037fbe4bb70800000000000000
+      internalID: 8914009009373966535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_166
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2fb3257a964ffd0800000000000000
+      internalID: -2309104541574106372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_167
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1551
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e108ed11340eaf0800000000000000
+      internalID: -369221425417937344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f61085d8792370800000000000000
+      internalID: 8298296646779203875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_169
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e55ba2d9f35c770800000000000000
+      internalID: 8630374205184368128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_170
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95d636da21d8050800000000000000
+      internalID: 5804316030657190321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_171
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4027a100e2b4fffe0800000000000000
+      internalID: -1153120318641245692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_172
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef343fef6d118e70800000000000000
+      internalID: 9115599487366348770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_173
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df4dfb449ec10f90800000000000000
+      internalID: -6989078010376925226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_174
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9ad9b97dd3a250800000000000000
+      internalID: 5954846647192821693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_175
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743332056833ee320800000000000000
+      internalID: 2589063487747732295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_176
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3bc6f2b5c7b1cc0800000000000000
+      internalID: -3739258334521543682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_177
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc740c4f4f543f0800000000000000
+      internalID: -917057617064899303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_178
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0f5f424967c09f0800000000000000
+      internalID: -500895079897632548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_179
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1422
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc3e700833fea2d0800000000000000
+      internalID: -3265405257945039650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456f558256c1af240800000000000000
+      internalID: 4826201171474904660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_181
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6629c819a76d80800000000000000
+      internalID: -8257445467841467070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_182
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ffe5cc5f5ab580800000000000000
+      internalID: -8810624868934486891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_183
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2582a0e7d90990800000000000000
+      internalID: -7419161551316898327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_184
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed29e22b804c880800000000000000
+      internalID: -8591732627737485678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_185
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e9dab5566a30ee0800000000000000
+      internalID: -1296009313492558207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_186
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0d6a973911d0fd0800000000000000
+      internalID: -2374222103455543136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_187
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e00d6e14a9118a0800000000000000
+      internalID: -6336113592897630649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_188
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c801d9a22840cbdb0800000000000000
+      internalID: -4774936547812372340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_189
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17f5faf8a7f1ec60800000000000000
+      internalID: 7845824330993104666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_190
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79003aaa3e8266480800000000000000
+      internalID: -8906386254793080681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_191
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1293
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811108c4eb67f7150800000000000000
+      internalID: 5872542998813741336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d3384ef403449d0800000000000000
+      internalID: -2791052749368509099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_193
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece996dbea992b670800000000000000
+      internalID: 8553067618111168206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_194
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71d3b04d194f4410800000000000000
+      internalID: 1463468793907106170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_195
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bc3b1c737b44b40800000000000000
+      internalID: 5423661301361789753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_196
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44d85742a665a80800000000000000
+      internalID: -8478472543654820674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_197
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f9472f1501eaf50800000000000000
+      internalID: 6894466023696932634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_198
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457d75b46fdc40b40800000000000000
+      internalID: 5405671910461134676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_199
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64778cc796d72580800000000000000
+      internalID: -8851870595113585554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_200
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb7a58c88975080800000000000000
+      internalID: -9198715984575743170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_201
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd0ade2e5dadcd0800000000000000
+      internalID: -2532476669816414323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_202
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e6285278914d90800000000000000
+      internalID: -7115238319396034712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_203
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1164
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68e8607dc47961c0800000000000000
+      internalID: -4509945126131799954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c1fbb4a21f2cfb0800000000000000
+      internalID: -4628872303021712350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_205
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6af64498d6dd790800000000000000
+      internalID: -7503720967803263264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_206
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c2009917949e1a0800000000000000
+      internalID: -6779807011782513528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_207
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91861b6b108d46b30800000000000000
+      internalID: 4279783047780460569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_208
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db5aea90a9cd6820800000000000000
+      internalID: 2913206225609579481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_209
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278077c9d3a295260800000000000000
+      internalID: 7086741932750604402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_210
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ae6c8b82a979900800000000000000
+      internalID: 691190567514073751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_211
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e231865847f61d0e0800000000000000
+      internalID: -2246892192836086994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_212
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a193f02eacaa40800000000000000
+      internalID: 5380867111349495521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_213
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc987ea8bb999cd0800000000000000
+      internalID: -2550836496425247521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_214
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22400b89107d5b90800000000000000
+      internalID: -7251516569988087249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_215
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1035
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e9711e64003c370800000000000000
+      internalID: 8341511239244422750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cd76ad0d4e4bdd0800000000000000
+      internalID: -2471098709850989446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_217
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7adef1562a3586e0800000000000000
+      internalID: -1835997336824784259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_218
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c2d44c19792c880800000000000000
+      internalID: -8592138486750041053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_219
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde75415f7270a80800000000000000
+      internalID: -8500781838076744228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_220
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88b28501f65acb0800000000000000
+      internalID: -4853350907432433431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_221
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899f2037171a7cdd0800000000000000
+      internalID: -2465824762329106024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_222
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9d8a632bfb8a750800000000000000
+      internalID: 6316509249529240048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_223
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c0678acd7fd110800000000000000
+      internalID: 1287886327259382823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_224
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16ba713b5cc96310800000000000000
+      internalID: 1398873851319465501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_225
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0000e58294bb550800000000000000
+      internalID: 6177611751593345217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_226
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a280a29241c5e530800000000000000
+      internalID: 3883722745348915874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_227
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 906
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaad77cad8b8d720800000000000000
+      internalID: 2871248012237974247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5c49340545b690800000000000000
+      internalID: -7587082112792240981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_229
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d758ac4e3c3a7440800000000000000
+      internalID: 4934322580009539537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_230
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1989bd6f231740800000000000000
+      internalID: 5121489349561097801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_231
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcce07525bbfad30800000000000000
+      internalID: 4444977319560269008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_232
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e49d151d4e52d50800000000000000
+      internalID: 6712022407338085897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_233
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d074d9d49886970f0800000000000000
+      internalID: -1118748093502896371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_234
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b18c5af2b33640800000000000000
+      internalID: 5058583594830770406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_235
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffcdd2bf3567ca10800000000000000
+      internalID: 1929622289609773040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_236
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a1b9ffc61a72270800000000000000
+      internalID: 8225720733932395056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_237
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2334e269ec4930450800000000000000
+      internalID: 6053845939119866674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_238
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5ef41ff7b22860800000000000000
+      internalID: 7503762235349426161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_239
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 777
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9b56d85e2563d80800000000000000
+      internalID: -8271332519746094649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e78240eb227432c0800000000000000
+      internalID: -4452808598790961180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_241
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d6e591faa1cd250800000000000000
+      internalID: 5970676545333652739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_242
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b65e0e5692f3be30800000000000000
+      internalID: 4518221578819753655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_243
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f09cea1cb8df120800000000000000
+      internalID: 2449267436336779013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_244
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28770e8d129375430800000000000000
+      internalID: 3771546030481373058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_245
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d13b7eddb3750070800000000000000
+      internalID: 8071985166450110930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_246
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f74a1d78a777710800000000000000
+      internalID: 1690954908857302838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_247
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a3a869e074bb9e0800000000000000
+      internalID: -1604610714246694340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_248
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0454f224b3f960800000000000000
+      internalID: 7634643855544159756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_249
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75551041535f55690800000000000000
+      internalID: -7613909986682251945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_250
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542a0b74c2370eda0800000000000000
+      internalID: -5917603276346318267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_251
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 648
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e61a101bc83a320800000000000000
+      internalID: 2568050904395771465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075a1ce463d27830800000000000000
+      internalID: 4067545843880318725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_253
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5339973b44bdb4900800000000000000
+      internalID: 669870057709998901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_254
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcae7ee1119b1e30800000000000000
+      internalID: 4475330160924470462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_255
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb06afc1090aec0b0800000000000000
+      internalID: -5706447137009934149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_256
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3433885f17dea20800000000000000
+      internalID: 3093253818439386048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_257
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f83c7c00194e7e30800000000000000
+      internalID: 4503117010694846704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_258
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0525d6f7f720dddb0800000000000000
+      internalID: -4765650084066143664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_259
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b98b7cc658cb5760800000000000000
+      internalID: 7447766683910638009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_260
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26370be4e2bcb7210800000000000000
+      internalID: 1331881514567234402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_261
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1409f48b0d70df1d0800000000000000
+      internalID: -3315485157648003007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_262
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5774767410ec75490800000000000000
+      internalID: -7757505328234150027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_263
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 519
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9619746e1dcfda0800000000000000
+      internalID: -5909617824043537984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_264
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe0351659fd8e60800000000000000
+      internalID: 7966297464006306796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_265
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ecd63683859b250800000000000000
+      internalID: 5960892581011115570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_266
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5718d5ee55422c0800000000000000
+      internalID: -4457343248930605650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_267
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628bbc16f8f6f8bd0800000000000000
+      internalID: -2625757396121962458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_268
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51ca7f5d80210d10800000000000000
+      internalID: 2089987493640978783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_269
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d672ada85e257df0800000000000000
+      internalID: -183189251433531691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_270
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663e4e891423af80800000000000000
+      internalID: -8096588012901747103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_271
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ee5356d1a37010800000000000000
+      internalID: 1185469068822374165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_272
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae1b4b23bb85e7f0800000000000000
+      internalID: -583906975032861011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_273
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7807849ec9756890800000000000000
+      internalID: -7465426879134627713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_274
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c278ae0b545b10800000000000000
+      internalID: 1969299055581513120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_275
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace851199bd8ee70800000000000000
+      internalID: 9144800493843311789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_276
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582076b733b4105d0800000000000000
+      internalID: -3098112384168426875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_277
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a99e83dc94c73aa0800000000000000
+      internalID: -6181255785699436126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_278
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7746e95d595bb9c30800000000000000
+      internalID: 4367283918804509815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_279
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a9a19598352c30800000000000000
+      internalID: 4333932431459067537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_280
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd5a7644cbf6740800000000000000
+      internalID: 5147539901090488199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_281
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788b90f9207a8a940800000000000000
+      internalID: 5307675790556117127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_282
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c48e5f13b88c30800000000000000
+      internalID: 4361933186419443894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_283
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93595de577cee2e0800000000000000
+      internalID: -2094517467373546596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_284
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73bcb18b18b915a0800000000000000
+      internalID: -6550001754753420418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_285
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4ab52423edf2ba0800000000000000
+      internalID: -6111421861875440452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_286
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6f4cf380cef5f20800000000000000
+      internalID: 3413706562743891681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_287
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 261
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcad746c035a43260800000000000000
+      internalID: 7076462543409502927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_288
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d17703221390200800000000000000
+      internalID: 146702485778013497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_289
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18dff73b0faec000800000000000000
+      internalID: 58176307921410076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_290
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e264887d371412030800000000000000
+      internalID: 3468125153845069358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_291
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9de0f55c1cb05c0800000000000000
+      internalID: -4248088770046404152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_292
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f98c5362a1f0ab0800000000000000
+      internalID: -5039780706590875778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_293
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57447abcd4f7d9f0800000000000000
+      internalID: -443616809414539425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_294
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd9d63444dc5920800000000000000
+      internalID: 2980490442855537445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_295
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0ffb34290c66360800000000000000
+      internalID: 7162623991813763248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_296
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ea738dfcc854bf0800000000000000
+      internalID: -340711372482957677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_297
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2926a409ab6a4a0800000000000000
+      internalID: -6582368676469370131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_298
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8c96a0362a5d3b0800000000000000
+      internalID: -5488302024620914487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_299
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 132
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40906498617ac1a80800000000000000
+      internalID: -8494731081893410556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf33f7fc3291a4a0800000000000000
+      internalID: -6583820389683347494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_301
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b78dacf4c8a550800000000000000
+      internalID: 6172399878833418385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_302
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b091a2bd6e55c810800000000000000
+      internalID: 1784936652563648696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_303
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbbac46b0c134f90800000000000000
+      internalID: -6970696962978169926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_304
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e8b2bb647bc6e0800000000000000
+      internalID: -1816230018805078100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_305
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2236a4c6adcb1f0800000000000000
+      internalID: -1027706456307981595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_306
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b11eb51991b9230800000000000000
+      internalID: 3646536435388980036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_307
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479656016234f4cb0800000000000000
+      internalID: -4877606040656057996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_308
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead396d3f36844d00800000000000000
+      internalID: 956036627080756654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_309
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e655148e8cfa5f90800000000000000
+      internalID: -6963976184743504159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_310
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160dc6e0d0c9a08f0800000000000000
+      internalID: -573474422645796767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonicicemaptile1_311
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 3
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a42f6d0bc24970800000000000000
+      internalID: 8737769485611868466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
